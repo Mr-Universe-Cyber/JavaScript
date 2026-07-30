@@ -1,0 +1,11 @@
+var firstNumber = 10;
+var secondNumber = 20;
+var result = firstNumber * secondNumber;
+console.log(result);
+let x = 5;
+let y = 6;
+let z = x+y;
+console.log(z);
+const banana = 50;
+const orange = 100;
+console.log(banana);
